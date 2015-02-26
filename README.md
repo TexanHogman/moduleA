@@ -1,1 +1,1 @@
-# moduleA version 1.0.0
+# moduleA version 1.0.2
